@@ -10,7 +10,12 @@
 - QtChart图表
 - 滚动文字显示的label
 - 优化的toolbox,可以同时展开多项（Qt5中的toolbox只能一次打开一个）
+- 使用Qxlsx进行表格编辑
 
 项目截图
 ---
+监控界面
 ![img](imgs/img1.png)
+生产管理
+·同时打开多项
+![img](imgs/img2.png)
