@@ -13,4 +13,4 @@
 
 项目截图
 ---
-![img](images/img1.png)
+![img](imgs/img1.png)
